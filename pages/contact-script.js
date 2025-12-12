@@ -24,7 +24,7 @@ if (contactForm) {
         if (subscribe) whatsappMessage += `\n✓ Interested in newsletter`;
 
         // Open WhatsApp with pre-filled message
-        const whatsappUrl = `https://wa.me/1234567890?text=${encodeURIComponent(whatsappMessage)}`;
+        const whatsappUrl = `https://wa.me/263772593914?text=${encodeURIComponent(whatsappMessage)}`;
         
         // Show success message
         formMessage.textContent = '✓ Opening WhatsApp. Please complete your message there.';
