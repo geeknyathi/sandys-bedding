@@ -748,6 +748,10 @@ a {
     .hero {
         min-height: 600px;
     }
+        /* Hide WhatsApp nav button on mobile */
+        .btn-whatsapp-nav {
+            display: none !important;
+        }
     
     .hero-title {
         font-size: 36px;
